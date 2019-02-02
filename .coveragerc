@@ -10,3 +10,4 @@ omit =
     restfulpy/testing.py
     restfulpy/application/cli/*
 	restfulpy/scaffolding
+	sphinx/conf.py
